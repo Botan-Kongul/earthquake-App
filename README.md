@@ -3,10 +3,9 @@ Bu Repository Bandırma Onyedi Eylül Üniversitesi Yönetim Bilişim Sistemleri
 
 Yönetim Bilişim Sistemleri 4.Sınıf - <b><i>Botan Kongül</i></b>
 
-![Taslak](screenshot.png)
 
 
-Amaç : Deprem anında veya sonrasında mevcut durum hakkında bilgi sahibi olmak ve  gelişebilecek olası durumlar için çeşitli kısayollar sağlamak
+Amaç : Deprem anında veya sonrasında mevcut duruma hazırlıklı olmak ve gelişebilecek olası durumlar için çeşitli kısayollar sağlamak
 
 
 
